@@ -1,0 +1,24 @@
+body {
+    background-color: #111827;
+    color: #d9e6eb;
+}
+.titulos{
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.parrafos{
+    font-family: "Balsamiq Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.2rem;
+}
+.border-amarillo{
+    border-color: rgb(175, 255, 70) !important;
+}
+.border-rojo{
+    border-color: rgb(255, 70, 196) !important;
+}
+.border-verde{
+    border-color: rgb(52, 224, 52) !important;
+}
