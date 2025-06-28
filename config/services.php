@@ -36,7 +36,7 @@ return [
     ],
 
     'nvidia' => [
-        'api_key' => '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',
+        'api_key' => 'API-KEY',
     ],
 
 ];
